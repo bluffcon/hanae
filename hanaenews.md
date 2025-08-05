@@ -1,6 +1,8 @@
 # NEWS ::
 the higher the announcement the more recent it is !
 
+- Added Iron Chests, Ender Chests, Ender Tanks
+- Added a recipe for Ender Pearls using Crystal Ball and Aether
 - First patent ever claimed!! Patent for a Jetpack for EXPERT Inc.
 - [Patch a.00] Implemented a Patent system that lets companies claim items
 - [Patch a.00] Added custom HANAE mod
