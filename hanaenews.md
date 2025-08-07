@@ -1,6 +1,7 @@
 # NEWS ::
 the higher the announcement the more recent it is !
 
+- Added Asphalt and Heated Asphalt blocks — they increase movement speed
 - Added Iron Chests, Ender Chests, Ender Tanks
 - Added a recipe for Ender Pearls using Crystal Ball and Aether
 - First patent ever claimed!! Patent for a Jetpack for EXPERT Inc.
