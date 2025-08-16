@@ -3,6 +3,9 @@
 the higher the announcement the more recent it is !
 ^^^
 
+- Added a new craftable Music Disc!
+- Removed the food diversity mod, SOL: Apple Pie
+- Asphalt now allows you to run even faster, made Heated Asphalt cool down 2x slower
 - Added preset game options (check your options and keybinds because it got overridden)!
 - Added right-clicking to harvest crops
 - Added new Farmer's Delight addons
