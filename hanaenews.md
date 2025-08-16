@@ -1,5 +1,7 @@
+^^^
 # NEWS ::
 the higher the announcement the more recent it is !
+^^^
 
 - Added a potion that enables keepInventory for a limited amount of time — Devoted Tutelage.
 - **Disabled keepInventory**. See above
