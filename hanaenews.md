@@ -3,7 +3,11 @@
 the higher the announcement the more recent it is !
 ^^^
 
+- New Quest chapter 70% done, already playable but half of the rewards and descriptions are missing
+- Added an Experiments tab
+- Rewamped the Main Menu and the Options screen
 - Added a new craftable Music Disc!
+- - Added Diet
 - Removed the food diversity mod, SOL: Apple Pie
 - Asphalt now allows you to run even faster, made Heated Asphalt cool down 2x slower
 - Added preset game options (check your options and keybinds because it got overridden)!
