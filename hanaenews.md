@@ -3,6 +3,9 @@
 the higher the announcement the more recent it is !
 ^^^
 
+- [Patch a.1.1] Added a new menu background option which is a panorama of spawn
+- [Patch a.1.1] Added a customization tab option to change the menu background
+- [Patch a.1.1] Added an option to show or hide button labels on the main menu
 - [Patch a.1] New Quest chapter 70% done, already playable but half of the rewards and descriptions are missing
 - [Patch a.1] Added an Experiments tab
 - [Patch a.1] Rewamped the Main Menu and the Options screen
